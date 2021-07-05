@@ -1,0 +1,8 @@
+*~
+/bin
+/include
+/lib
+pyvenv.cfg
+dejavu10x10_gs_tc.png
+/__pycache__
+#*#
